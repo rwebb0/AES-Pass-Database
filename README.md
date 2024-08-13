@@ -36,4 +36,4 @@ java -jar 23-24_CE301_webb_richard_a-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 5. **Edit Entry Screen**
 
-   ![Edit Entry GUI Screen](images/Screenshot 2024-08-13 142213.png)
+   ![Edit Entry GUI Screen](images/editEntryGUI.png)
