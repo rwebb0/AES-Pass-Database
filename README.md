@@ -27,10 +27,13 @@ java -jar 23-24_CE301_webb_richard_a-1.0-SNAPSHOT-jar-with-dependencies.jar
 ## Examples
 
 1. **Login Screen**
+   
    ![Login GUI Screen](images/loginGUI.png)
 
-2. **Main Menu Screen**
+3. **Main Menu Screen**
+   
    ![Main Menu GUI Screen](images/mainMenuGUI.png)
 
-3. **Edit Entry Screen**
+5. **Edit Entry Screen**
+
    ![Edit Entry GUI Screen](images/Screenshot 2024-08-13 142213.png)
