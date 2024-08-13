@@ -3,7 +3,7 @@
 ## Introduction
 This application provides a secure way to manage and store passwords with AES-256 bit encryption. It features a user-friendly interface for easy navigation and management of password entries.
 
-## Prerequisites
+
 - Java Runtime Environment (JRE) or Java Development Kit (JDK) version 17 or higher installed on your machine.
 - The provided executable JAR file from the project.
 
@@ -23,3 +23,14 @@ To run the application, follow these steps:
 ```
 java -jar 23-24_CE301_webb_richard_a-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
+
+## Examples
+
+1. **Login Screen**
+   ![Login GUI Screen](images/loginGUI.png)
+
+2. **Main Menu Screen**
+   ![Main Menu GUI Screen](images/mainMenuGUI.png)
+
+3. **Edit Entry Screen**
+   ![Edit Entry GUI Screen](images/Screenshot 2024-08-13 142213.png)
